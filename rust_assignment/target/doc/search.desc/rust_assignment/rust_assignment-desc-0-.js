@@ -1,0 +1,1 @@
+searchState.loadedDescShard("rust_assignment", 0, "")
